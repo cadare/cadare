@@ -1,4 +1,4 @@
-### Hi, I am Khadar A web developer👋
+### Hi, I am Khadar a web developer👋
 
 ---
 ![Alt text](/img/cover-image.jpeg?raw=true "Optional Title")
