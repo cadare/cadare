@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Khadar A web developer👋
+
+---
+![Alt text](/img/cover-image.jpeg?raw=true "Optional Title")
+
+---
+Hi, I am a web frontend developer, and I understand that my Github Readme is a crucial tool to showcase my skills and projects. I ensure that I keep it up to date with my latest achievements and projects. As I improve my skills, I add more details about my areas of expertise, including the technologies and frameworks that I use. I utilize this space to highlight my strengths, giving potential employers or collaborators a clear understanding of my capabilities. I provide links to my most impressive projects and highlight any unique features or challenges I encountered while developing them. I understand that my Github Readme is an opportunity to make a great impression and stand out. 
+
+ ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨  ✨ 
+
+
 
 <!--
 **cadare/cadare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
